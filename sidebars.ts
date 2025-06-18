@@ -54,6 +54,11 @@ module.exports = {
       label: 'Tools & Simulation',
       items: ['tools/matlab-vs-python'],
     },
+    {
+      type: 'category',
+      label: 'Standards & Protocols',
+      items: ['standards/pcie4'],
+    },
   ],
 };
 

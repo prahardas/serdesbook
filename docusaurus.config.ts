@@ -76,7 +76,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-    title: 'SerDesBook',
+    title: 'SerDesBook.com',
     
     items: [
       { to: '/docs/intro', label: 'Book', position: 'left' },
@@ -131,7 +131,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Derive Solutions LLC. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
